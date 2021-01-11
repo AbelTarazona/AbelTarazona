@@ -27,7 +27,7 @@
 ### Technology Stack:
 
 <p>
-  <img alt="Android" src="https://img.shields.io/badge/-Android-43853d?style=flat-square&logo=Android&logoColor=white" />
+  <img alt="Android" src="https://img.shields.io/badge/-Android-f7f7f7?style=flat-square&logo=Android&logoColor=green" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-43853d?style=flat-square&logo=Python&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-43853d?style=flat-square&logo=Dart&logoColor=white" />
@@ -42,7 +42,6 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=AbelTarazona"/></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=AbelTarazona&show_icons=true&count_private=true" /></td>
     </tr>
   </table>
