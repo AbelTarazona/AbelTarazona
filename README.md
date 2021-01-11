@@ -27,6 +27,7 @@
 ### Technology Stack:
 
 <p>
+  <img alt="Android" src="https://img.shields.io/badge/-Android-43853d?style=flat-square&logo=Android&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-43853d?style=flat-square&logo=Python&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-43853d?style=flat-square&logo=Dart&logoColor=white" />
