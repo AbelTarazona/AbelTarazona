@@ -36,13 +36,3 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
-
-### :zap: GitHub Stats
-
-<center>
-  <table>
-    <tr>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=AbelTarazona&show_icons=true&count_private=true" /></td>
-    </tr>
-  </table>
-</center>
