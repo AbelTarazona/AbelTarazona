@@ -31,7 +31,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-43853d?style=flat-square&logo=Python&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-43853d?style=flat-square&logo=Dart&logoColor=white" />
-  <img alt="Rest" src="https://img.shields.io/badge/-Rest-E10098?style=flat-square&logo=rest&logoColor=white" />
   <img alt="Aws" src="https://img.shields.io/badge/-DigitalOcean-E10098?style=flat-square&logo=DigitalOcean&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
