@@ -19,10 +19,7 @@
 ### Connect with me
 
 [![Gmail Badge](https://img.shields.io/badge/-abeljosetr15@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abeljosetr15@gmail.com)](mailto:abeljosetr15@gmail.com)
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-26B03D?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=+51970080498)](https://api.whatsapp.com/send?phone=+51970080498)
 <a href="https://www.linkedin.com/in/abeltr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.facebook.com/abelRdx" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.instagram.com/abel.tarazona" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 ### Technology Stack:
 
