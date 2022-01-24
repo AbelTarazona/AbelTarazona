@@ -18,7 +18,6 @@
 
 ### Connect with me
 
-[![Gmail Badge](https://img.shields.io/badge/-abeljosetr15@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abeljosetr15@gmail.com)](mailto:abeljosetr15@gmail.com)
 <a href="https://www.linkedin.com/in/abeltr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ### Technology Stack:
