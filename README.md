@@ -25,9 +25,9 @@
 <p>
   <img alt="Android" src="https://img.shields.io/badge/-Android-f7f7f7?style=flat-square&logo=Android&logoColor=green" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-43853d?style=flat-square&logo=Python&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-43853d?style=flat-square&logo=Dart&logoColor=white" />
-  <img alt="Aws" src="https://img.shields.io/badge/-DigitalOcean-E10098?style=flat-square&logo=DigitalOcean&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-FF2D55?style=flat-square&logo=swift&logoColor=white" />
 </p>
