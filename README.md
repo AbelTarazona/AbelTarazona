@@ -1,6 +1,6 @@
 ### Hi there, I'm Abel Tarazona👋 <div align = 'right'>[![GitHub AbelTarazona](https://img.shields.io/github/followers/AbelTarazona?label=follow&style=social)](https://github.com/AbelTarazona) ![](https://komarev.com/ghpvc/?username=AbelTarazona&color=yellow)</div>
 
-## I'm a Full stack Developer, Tech Innovation Entusiast and Traveller 
+## I'm a Software Engineer, Tech Innovation Entusiast and Traveller 
 
 - 🌱 I’m currently exploring new things in technology. 
 - 👯 I’m looking to collaborate with other android native content creators.
